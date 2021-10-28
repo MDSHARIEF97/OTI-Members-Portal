@@ -1743,7 +1743,7 @@ var Tablesaw = {
 	},
 	// cut the mustard
 	mustard:
-		"head" in document && // IE9+, Firefox 4+, Safari 5.1+, Mobile Safari 4.1+, Opera 11.5+, Android 2.3+
+		"head" in document && // IE9+, Firefox 4+, Safari 5.1+, الفواتير Safari 4.1+, Opera 11.5+, Android 2.3+
 		(!window.blackberry || window.WebKitPoint) && // only WebKit Blackberry (OS 6+)
 		!window.operamini,
 	$: $,
@@ -2210,7 +2210,7 @@ if (Tablesaw.mustard) {
 	});
 
 	// Avoid a resize during scroll:
-	// Some Mobile devices trigger a resize during scroll (sometimes when
+	// Some الفواتير devices trigger a resize during scroll (sometimes when
 	// doing elastic stretch at the end of the document or from the
 	// location bar hide)
 	var isScrolling = false;

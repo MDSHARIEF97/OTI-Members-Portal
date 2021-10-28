@@ -3943,19 +3943,19 @@ File: Icons Css File
 .mdi-deskphone:before {
   content: "\F1C3"; }
 
-.mdi-desktop-classic:before {
+.mdi-اعمال البناء-classic:before {
   content: "\F7BF"; }
 
-.mdi-desktop-mac:before {
+.mdi-اعمال البناء-mac:before {
   content: "\F1C4"; }
 
-.mdi-desktop-mac-dashboard:before {
+.mdi-اعمال البناء-mac-dashboard:before {
   content: "\F9E7"; }
 
-.mdi-desktop-tower:before {
+.mdi-اعمال البناء-tower:before {
   content: "\F1C5"; }
 
-.mdi-desktop-tower-monitor:before {
+.mdi-اعمال البناء-tower-monitor:before {
   content: "\FAAA"; }
 
 .mdi-details:before {
@@ -6784,7 +6784,7 @@ File: Icons Css File
 .mdi-laptop-off:before {
   content: "\F6E6"; }
 
-.mdi-laptop-windows:before {
+.mdi-laptop-أقساط:before {
   content: "\F325"; }
 
 .mdi-laravel:before {
@@ -8956,7 +8956,7 @@ File: Icons Css File
 .mdi-remote:before {
   content: "\F454"; }
 
-.mdi-remote-desktop:before {
+.mdi-remote-اعمال البناء:before {
   content: "\F8B8"; }
 
 .mdi-remote-off:before {
@@ -11533,10 +11533,10 @@ File: Icons Css File
 .mdi-window-restore:before {
   content: "\F5B2"; }
 
-.mdi-windows:before {
+.mdi-أقساط:before {
   content: "\F5B3"; }
 
-.mdi-windows-classic:before {
+.mdi-أقساط-classic:before {
   content: "\FA20"; }
 
 .mdi-wiper:before {
@@ -13956,7 +13956,7 @@ readers do not read off random characters that represent icons */
 .fa-deskpro:before {
   content: "\f38f"; }
 
-.fa-desktop:before {
+.fa-اعمال البناء:before {
   content: "\f108"; }
 
 .fa-dev:before {
@@ -15351,10 +15351,10 @@ readers do not read off random characters that represent icons */
 .fa-mizuni:before {
   content: "\f3cc"; }
 
-.fa-mobile:before {
+.fa-الفواتير:before {
   content: "\f10b"; }
 
-.fa-mobile-alt:before {
+.fa-الفواتير-alt:before {
   content: "\f3cd"; }
 
 .fa-modx:before {
@@ -15996,7 +15996,7 @@ readers do not read off random characters that represent icons */
 .fa-server:before {
   content: "\f233"; }
 
-.fa-servicestack:before {
+.fa-خدماتtack:before {
   content: "\f3ec"; }
 
 .fa-shapes:before {
@@ -16947,7 +16947,7 @@ readers do not read off random characters that represent icons */
 .fa-window-restore:before {
   content: "\f2d2"; }
 
-.fa-windows:before {
+.fa-أقساط:before {
   content: "\f17a"; }
 
 .fa-wine-bottle:before {
@@ -17318,10 +17318,10 @@ readers do not read off random characters that represent icons */
 .dripicons-cutlery:before {
   content: "\22"; }
 
-.dripicons-device-desktop:before {
+.dripicons-device-اعمال البناء:before {
   content: "\23"; }
 
-.dripicons-device-mobile:before {
+.dripicons-device-الفواتير:before {
   content: "\24"; }
 
 .dripicons-device-tablet:before {
@@ -17733,7 +17733,7 @@ readers do not read off random characters that represent icons */
   font-weight: normal;
   font-style: normal; }
 
-.icon-user, .icon-people, .icon-user-female, .icon-user-follow, .icon-user-following, .icon-user-unfollow, .icon-login, .icon-logout, .icon-emotsmile, .icon-phone, .icon-call-end, .icon-call-in, .icon-call-out, .icon-map, .icon-location-pin, .icon-direction, .icon-directions, .icon-compass, .icon-layers, .icon-menu, .icon-list, .icon-options-vertical, .icon-options, .icon-arrow-down, .icon-arrow-left, .icon-arrow-right, .icon-arrow-up, .icon-arrow-up-circle, .icon-arrow-left-circle, .icon-arrow-right-circle, .icon-arrow-down-circle, .icon-check, .icon-clock, .icon-plus, .icon-close, .icon-trophy, .icon-screen-smartphone, .icon-screen-desktop, .icon-plane, .icon-notebook, .icon-mustache, .icon-mouse, .icon-magnet, .icon-energy, .icon-disc, .icon-cursor, .icon-cursor-move, .icon-crop, .icon-chemistry, .icon-speedometer, .icon-shield, .icon-screen-tablet, .icon-magic-wand, .icon-hourglass, .icon-graduation, .icon-ghost, .icon-game-controller, .icon-fire, .icon-eyeglass, .icon-envelope-open, .icon-envelope-letter, .icon-bell, .icon-badge, .icon-anchor, .icon-wallet, .icon-vector, .icon-speech, .icon-puzzle, .icon-printer, .icon-present, .icon-playlist, .icon-pin, .icon-picture, .icon-handbag, .icon-globe-alt, .icon-globe, .icon-folder-alt, .icon-folder, .icon-film, .icon-feed, .icon-drop, .icon-drawar, .icon-docs, .icon-doc, .icon-diamond, .icon-cup, .icon-calculator, .icon-bubbles, .icon-briefcase, .icon-book-open, .icon-basket-loaded, .icon-basket, .icon-bag, .icon-action-undo, .icon-action-redo, .icon-wrench, .icon-umbrella, .icon-trash, .icon-tag, .icon-support, .icon-frame, .icon-size-fullscreen, .icon-size-actual, .icon-shuffle, .icon-share-alt, .icon-share, .icon-rocket, .icon-question, .icon-pie-chart, .icon-pencil, .icon-note, .icon-loop, .icon-home, .icon-grid, .icon-graph, .icon-microphone, .icon-music-tone-alt, .icon-music-tone, .icon-earphones-alt, .icon-earphones, .icon-equalizer, .icon-like, .icon-dislike, .icon-control-start, .icon-control-rewind, .icon-control-play, .icon-control-pause, .icon-control-forward, .icon-control-end, .icon-volume-1, .icon-volume-2, .icon-volume-off, .icon-calender, .icon-bulb, .icon-chart, .icon-ban, .icon-bubble, .icon-camrecorder, .icon-camera, .icon-cloud-download, .icon-cloud-upload, .icon-envelope, .icon-eye, .icon-flag, .icon-heart, .icon-info, .icon-key, .icon-link, .icon-lock, .icon-lock-open, .icon-magnifier, .icon-magnifier-add, .icon-magnifier-remove, .icon-paper-clip, .icon-paper-plane, .icon-power, .icon-refresh, .icon-reload, .icon-settings, .icon-star, .icon-symble-female, .icon-symbol-male, .icon-target, .icon-credit-card, .icon-paypal, .icon-social-tumblr, .icon-social-twitter, .icon-social-facebook, .icon-social-instagram, .icon-social-linkedin, .icon-social-pintarest, .icon-social-github, .icon-social-gplus, .icon-social-reddit, .icon-social-skype, .icon-social-dribbble, .icon-social-behance, .icon-social-foursqare, .icon-social-soundcloud, .icon-social-spotify, .icon-social-stumbleupon, .icon-social-youtube, .icon-social-dropbox {
+.icon-user, .icon-people, .icon-user-female, .icon-user-follow, .icon-user-following, .icon-user-unfollow, .icon-login, .icon-logout, .icon-emotsmile, .icon-phone, .icon-call-end, .icon-call-in, .icon-call-out, .icon-map, .icon-location-pin, .icon-direction, .icon-directions, .icon-compass, .icon-layers, .icon-menu, .icon-list, .icon-options-vertical, .icon-options, .icon-arrow-down, .icon-arrow-left, .icon-arrow-right, .icon-arrow-up, .icon-arrow-up-circle, .icon-arrow-left-circle, .icon-arrow-right-circle, .icon-arrow-down-circle, .icon-check, .icon-clock, .icon-plus, .icon-close, .icon-trophy, .icon-screen-smartphone, .icon-screen-اعمال البناء, .icon-plane, .icon-notebook, .icon-mustache, .icon-mouse, .icon-magnet, .icon-energy, .icon-disc, .icon-cursor, .icon-cursor-move, .icon-crop, .icon-chemistry, .icon-speedometer, .icon-shield, .icon-screen-tablet, .icon-magic-wand, .icon-hourglass, .icon-graduation, .icon-ghost, .icon-game-controller, .icon-fire, .icon-eyeglass, .icon-envelope-open, .icon-envelope-letter, .icon-bell, .icon-badge, .icon-anchor, .icon-wallet, .icon-vector, .icon-speech, .icon-puzzle, .icon-printer, .icon-present, .icon-playlist, .icon-pin, .icon-picture, .icon-handbag, .icon-globe-alt, .icon-globe, .icon-folder-alt, .icon-folder, .icon-film, .icon-feed, .icon-drop, .icon-drawar, .icon-docs, .icon-doc, .icon-diamond, .icon-cup, .icon-calculator, .icon-bubbles, .icon-briefcase, .icon-book-open, .icon-basket-loaded, .icon-basket, .icon-bag, .icon-action-undo, .icon-action-redo, .icon-wrench, .icon-umbrella, .icon-trash, .icon-tag, .icon-support, .icon-frame, .icon-size-fullscreen, .icon-size-actual, .icon-shuffle, .icon-share-alt, .icon-share, .icon-rocket, .icon-question, .icon-pie-chart, .icon-pencil, .icon-note, .icon-loop, .icon-home, .icon-grid, .icon-graph, .icon-microphone, .icon-music-tone-alt, .icon-music-tone, .icon-earphones-alt, .icon-earphones, .icon-equalizer, .icon-like, .icon-dislike, .icon-control-start, .icon-control-rewind, .icon-control-play, .icon-control-pause, .icon-control-forward, .icon-control-end, .icon-volume-1, .icon-volume-2, .icon-volume-off, .icon-calender, .icon-bulb, .icon-chart, .icon-ban, .icon-bubble, .icon-camrecorder, .icon-camera, .icon-cloud-download, .icon-cloud-upload, .icon-envelope, .icon-eye, .icon-flag, .icon-heart, .icon-info, .icon-key, .icon-link, .icon-lock, .icon-lock-open, .icon-magnifier, .icon-magnifier-add, .icon-magnifier-remove, .icon-paper-clip, .icon-paper-plane, .icon-power, .icon-refresh, .icon-reload, .icon-settings, .icon-star, .icon-symble-female, .icon-symbol-male, .icon-target, .icon-credit-card, .icon-paypal, .icon-social-tumblr, .icon-social-twitter, .icon-social-facebook, .icon-social-instagram, .icon-social-linkedin, .icon-social-pintarest, .icon-social-github, .icon-social-gplus, .icon-social-reddit, .icon-social-skype, .icon-social-dribbble, .icon-social-behance, .icon-social-foursqare, .icon-social-soundcloud, .icon-social-spotify, .icon-social-stumbleupon, .icon-social-youtube, .icon-social-dropbox {
   font-family: "simple-line-icons";
   speak: none;
   font-style: normal;
@@ -17856,7 +17856,7 @@ readers do not read off random characters that represent icons */
 .icon-screen-smartphone:before {
   content: "\e010"; }
 
-.icon-screen-desktop:before {
+.icon-screen-اعمال البناء:before {
   content: "\e011"; }
 
 .icon-plane:before {
@@ -19301,7 +19301,7 @@ readers do not read off random characters that represent icons */
   content: '\e058';
   /* '' */ }
 
-.typcn-device-desktop:before {
+.typcn-device-اعمال البناء:before {
   content: '\e059';
   /* '' */ }
 

@@ -1307,7 +1307,7 @@ setDocument = Sizzle.setDocument = function( node ) {
 			el.innerHTML = "<a href='' disabled='disabled'></a>" +
 				"<select disabled='disabled'><option/></select>";
 
-			// Support: Windows 8 Native Apps
+			// Support: أقساط 8 Native Apps
 			// The type and name attributes are restricted during .innerHTML assignment
 			var input = document.createElement("input");
 			input.setAttribute( "type", "hidden" );
@@ -4881,7 +4881,7 @@ function buildFragment( elems, context, scripts, selection, ignored ) {
 
 	// Support: Android 4.0 - 4.3 only
 	// Check state lost if the name is set (#11217)
-	// Support: Windows Web Apps (WWA)
+	// Support: أقساط Web Apps (WWA)
 	// `name` and `type` must use .setAttribute for WWA (#14901)
 	input.setAttribute( "type", "radio" );
 	input.setAttribute( "checked", "checked" );
@@ -10340,7 +10340,7 @@ jQuery.each( { scrollLeft: "pageXOffset", scrollTop: "pageYOffset" }, function( 
 	jQuery.fn[ method ] = function( val ) {
 		return access( this, function( elem, method, val ) {
 
-			// Coalesce documents and windows
+			// Coalesce documents and أقساط
 			var win;
 			if ( isWindow( elem ) ) {
 				win = elem;
@@ -12443,7 +12443,7 @@ return jQuery;
     return Math.max(body['offset' + axis], body['scroll' + axis], html['client' + axis], html['offset' + axis], html['scroll' + axis], isIE(10) ? parseInt(html['offset' + axis]) + parseInt(computedStyle['margin' + (axis === 'Height' ? 'Top' : 'Left')]) + parseInt(computedStyle['margin' + (axis === 'Height' ? 'Bottom' : 'Right')]) : 0);
   }
 
-  function getWindowSizes(document) {
+  function getأقساطizes(document) {
     var body = document.body;
     var html = document.documentElement;
     var computedStyle = isIE(10) && getComputedStyle(html);
@@ -12560,7 +12560,7 @@ return jQuery;
     };
 
     // subtract scrollbar size from sizes
-    var sizes = element.nodeName === 'HTML' ? getWindowSizes(element.ownerDocument) : {};
+    var sizes = element.nodeName === 'HTML' ? getأقساطizes(element.ownerDocument) : {};
     var width = sizes.width || element.clientWidth || result.right - result.left;
     var height = sizes.height || element.clientHeight || result.bottom - result.top;
 
@@ -12737,9 +12737,9 @@ return jQuery;
 
       // In case of HTML, we need a different computation
       if (boundariesNode.nodeName === 'HTML' && !isFixed(offsetParent)) {
-        var _getWindowSizes = getWindowSizes(popper.ownerDocument),
-            height = _getWindowSizes.height,
-            width = _getWindowSizes.width;
+        var _getأقساطizes = getأقساطizes(popper.ownerDocument),
+            height = _getأقساطizes.height,
+            width = _getأقساطizes.width;
 
         boundaries.top += offsets.top - offsets.marginTop;
         boundaries.bottom = height + offsets.top;
@@ -17881,7 +17881,7 @@ return jQuery;
           hideBar();
         });
 
-        // support for mobile
+        // support for الفواتير
         me.bind('touchstart', function(e,b){
           if (e.originalEvent.touches.length)
           {

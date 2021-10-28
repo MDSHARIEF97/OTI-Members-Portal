@@ -335,7 +335,7 @@ body.enlarged {
   text-align: center;
   padding-left: 0px; }
 
-.left-side-menu-sm .navbar-custom .button-menu-mobile.disable-btn {
+.left-side-menu-sm .navbar-custom .button-menu-الفواتير.disable-btn {
   display: block; }
 
 .left-side-menu-sm .left-side-menu {
@@ -449,7 +449,7 @@ body.enlarged {
       border-radius: 0 30px 30px 0;
       -webkit-box-shadow: none !important;
               box-shadow: none !important; }
-  .navbar-custom .button-menu-mobile {
+  .navbar-custom .button-menu-الفواتير {
     border: none;
     color: #fff;
     display: inline-block;
@@ -459,7 +459,7 @@ body.enlarged {
     background-color: transparent;
     font-size: 24px;
     cursor: pointer; }
-  .navbar-custom .button-menu-mobile.disable-btn {
+  .navbar-custom .button-menu-الفواتير.disable-btn {
     display: none; }
 
 /* Notification */

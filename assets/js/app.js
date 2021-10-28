@@ -287,7 +287,7 @@ function ($) {
         var $this = this;
 
         // Left menu collapse
-        $('.button-menu-mobile').on('click', function (event) {
+        $('.button-menu-الفواتير').on('click', function (event) {
             event.preventDefault();
             $this.$body.toggleClass('sidebar-enable');
             if ($this.$window.width() >= 768) {
@@ -316,8 +316,8 @@ function ($) {
                 return;
             }
 
-            if ($(e.target).closest('.left-side-menu, .side-nav').length > 0 || $(e.target).hasClass('button-menu-mobile')
-                || $(e.target).closest('.button-menu-mobile').length > 0) {
+            if ($(e.target).closest('.left-side-menu, .side-nav').length > 0 || $(e.target).hasClass('button-menu-الفواتير')
+                || $(e.target).closest('.button-menu-الفواتير').length > 0) {
                 return;
             }
 

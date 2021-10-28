@@ -1517,8 +1517,7 @@ Responsive Menu
   position: relative; }
 
 .widget-box-two {
-  text-align: right;
-padding-bottom: 0; }
+  text-align: right; }
   .widget-box-two .wigdet-two-content {
     position: relative;
     overflow: hidden; }

@@ -95,11 +95,11 @@
         }
 
         function retrieveBarSeries(plot){
-            orderedBarSeries = findOthersBarsToReOrders(plot.getData());
+            orderedBarSeries = findخدماتBarsToReOrders(plot.getData());
             nbOfBarsToOrder = orderedBarSeries.length;
         }
 
-        function findOthersBarsToReOrders(series){
+        function findخدماتBarsToReOrders(series){
             var retSeries = new Array();
             var orderValuesSeen = [];
 

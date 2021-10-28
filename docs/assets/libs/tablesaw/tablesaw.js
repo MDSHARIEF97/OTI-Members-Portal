@@ -2810,7 +2810,7 @@ if (Tablesaw.mustard) {
 					});
 				}
 
-				function clearOthers(headcells) {
+				function clearخدمات(headcells) {
 					$.each(headcells, function(i, v) {
 						var col = $(v);
 						col.removeAttr(attrs.defaultCol);
@@ -2829,7 +2829,7 @@ if (Tablesaw.mustard) {
 						v = e.data.col,
 						newSortValue = heads.index(headCell[0]);
 
-					clearOthers(
+					clearخدمات(
 						headCell
 							.closest("thead")
 							.find("th")
@@ -2934,7 +2934,7 @@ if (Tablesaw.mustard) {
 								.split("_"),
 							head = heads.eq(val[0]);
 
-						clearOthers(head.siblings());
+						clearخدمات(head.siblings());
 						el[pluginName]("sortBy", head.get(0), val[1] === "asc");
 					});
 				}

@@ -858,7 +858,7 @@ function Sizzle( selector, context, results, seed ) {
 		}
 	}
 
-	// All others
+	// All خدمات
 	return select( selector.replace( rtrim, "$1" ), context, results, seed );
 }
 
@@ -2047,7 +2047,7 @@ Expr = Sizzle.selectors = {
 		"empty": function( elem ) {
 			// http://www.w3.org/TR/selectors/#empty-pseudo
 			// :empty is negated by element (1) or content nodes (text: 3; cdata: 4; entity ref: 5),
-			//   but not by others (comment: 8; processing instruction: 7; etc.)
+			//   but not by خدمات (comment: 8; processing instruction: 7; etc.)
 			// nodeType < 6 works because attributes (2) do not appear as children
 			for ( elem = elem.firstChild; elem; elem = elem.nextSibling ) {
 				if ( elem.nodeType < 6 ) {
@@ -9439,7 +9439,7 @@ jQuery.extend( {
 					throw e;
 				}
 
-				// Propagate others as results
+				// Propagate خدمات as results
 				done( -1, e );
 			}
 		}

@@ -1,9 +1,9 @@
 /*
-Template Name: Adminox - Responsive Bootstrap 4 Admin Dashboard
-Author: CoderThemes
-Version: 2.0.0
-Website: https://coderthemes.com/
-Contact: support@coderthemes.com
+Current Occupant: OTI ESTATE 
+Author: Mohamed Sharief 
+Version 1
+Website: https://elsharief.ge/
+Contact: mohamed@elsharief.ge
 File: Main Js File
 */
 
